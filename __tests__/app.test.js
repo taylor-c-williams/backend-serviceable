@@ -13,7 +13,7 @@ describe('backend routes', () => {
   });
 
   it('is a dummy test to pass github CI', async () => {
-    expect('pass').toEqual('pass')     
-    });
+    expect('pass').toEqual('pass');     
+  });
 
 });
