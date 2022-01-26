@@ -37,9 +37,7 @@ After building your proof of concept, you'll write a description of the service 
 ### Acceptance Criteria[](https://alchemycodelab.github.io/backend-serviceable/#acceptance-criteria)
 
 -   Link to GitHub repo of an example/proof of concept
--   A paragraph explaining the service(s) and third-party APIs used
-
-### Rubric[](https://alchemycodelab.github.io/backend-serviceable/#rubric)
+-   A paragraph explaining the service(s) and third-party APIs used# Rubric[](https://alchemycodelab.github.io/backend-serviceable/#rubric)
 
 | Task | Points |
 | --- | --- |
