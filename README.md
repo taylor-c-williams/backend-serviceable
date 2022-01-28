@@ -45,3 +45,20 @@ After building your proof of concept, you'll write a description of the service 
 | Explanation | 5
 
  |
+
+
+### Notes
+https://www.youtube.com/watch?v=G7iLLFKZVWA
+https://github.com/sendgrid/sendgrid-nodejs
+https://www.npmjs.com/package/@sendgrid/mail
+https://sendgrid.com/docs/
+https://github.com/LloydJanseVanRensburg/Email-Contact-Form
+
+
+<!-- Form Example  -->
+<!-- 
+<form method = "POST" action="/sendemail">
+<input type="text" name="username"/>
+<input type="text" name="useremail"/>
+<button class="submit"/>
+ -->
